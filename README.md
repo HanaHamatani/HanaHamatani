@@ -1,11 +1,10 @@
 <div align="center">
   <div height="1000px">
     <a>
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20I'm%20HanaHamatani%20☺︎;&font=Fira%20Code&center=true&width=440&height=45&color=49D1DE&vCenter=true&size=22&duration=7000&repeat=true">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20I'm%20Welcome to my Page%20☺︎;&font=Fira%20Code&center=true&width=440&height=45&color=49D1DE&vCenter=true&size=22&duration=7000&repeat=true">
     </a>
   </div>
 
-  <p align="left">Tech Stack</p>
   <img src="https://img.shields.io/badge/Ruby-CC342D?style=flat-square&logo=Ruby&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/Ruby_on_Rails-CC0000?style=flat-square&logo=ruby-on-rails&logoColor=white"/></a>
   <img src="https://img.shields.io/badge/PostgreSQL-336791?style=flat-square&logo=PostgreSQL&logoColor=white"/></a>
