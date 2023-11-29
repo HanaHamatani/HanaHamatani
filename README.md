@@ -1,7 +1,7 @@
-<div align="center">
+<div>
   <div height="1000px">
     <a>
-      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20I'm%20Welcome%20to%20my%20Page%20☺︎;&font=Fira%20Code&center=true&width=440&height=45&color=fff462&vCenter=true&size=22&duration=7000&repeat=true">
+      <img src="https://readme-typing-svg.herokuapp.com/?lines=Hello,%20Welcome%20to%20my%20Page!;&font=Fira%20Code&center=true&width=440&height=45&color=fff462&vCenter=true&size=22&duration=7000&repeat=true">
     </a>
   </div>
 
